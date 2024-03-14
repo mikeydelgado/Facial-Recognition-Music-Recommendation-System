@@ -1,0 +1,6 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_14640.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_14640.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:img_14640.hog
+Output image:img_14640.jpg
+Output aligned directory:img_14640_aligned

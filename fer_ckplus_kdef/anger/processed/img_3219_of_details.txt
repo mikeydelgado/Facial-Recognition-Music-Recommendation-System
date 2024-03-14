@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_3219.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_3219.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:img_3219.hog
+Output image:img_3219.jpg
+Output aligned directory:img_3219_aligned
+Output csv:img_3219.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

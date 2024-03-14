@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_26868.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_26868.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:img_26868.hog
+Output image:img_26868.jpg
+Output aligned directory:img_26868_aligned
+Output csv:img_26868.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,6 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_1731.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/img_1731.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:img_1731.hog
+Output image:img_1731.jpg
+Output aligned directory:img_1731_aligned

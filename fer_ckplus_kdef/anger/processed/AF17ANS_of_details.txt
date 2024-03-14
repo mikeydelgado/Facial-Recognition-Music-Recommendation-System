@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/AF17ANS.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/AF17ANS.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:AF17ANS.hog
+Output image:AF17ANS.jpg
+Output aligned directory:AF17ANS_aligned
+Output csv:AF17ANS.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

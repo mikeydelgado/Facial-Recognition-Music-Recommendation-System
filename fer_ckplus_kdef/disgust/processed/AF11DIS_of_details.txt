@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/disgust/AF11DIS.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/disgust/AF11DIS.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:AF11DIS.hog
+Output image:AF11DIS.jpg
+Output aligned directory:AF11DIS_aligned
+Output csv:AF11DIS.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

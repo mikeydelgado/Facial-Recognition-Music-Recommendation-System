@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/S133_003_00000046.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/anger/S133_003_00000046.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:S133_003_00000046.hog
+Output image:S133_003_00000046.jpg
+Output aligned directory:S133_003_00000046_aligned
+Output csv:S133_003_00000046.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

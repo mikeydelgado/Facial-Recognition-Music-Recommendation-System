@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/img_14620.png
+Input full path:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/img_14620.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:img_14620.hog
+Output image:img_14620.jpg
+Output aligned directory:img_14620_aligned
+Output csv:img_14620.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/AM32AFS.png
+Input full path:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/AM32AFS.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:AM32AFS.hog
+Output image:AM32AFS.jpg
+Output aligned directory:AM32AFS_aligned
+Output csv:AM32AFS.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

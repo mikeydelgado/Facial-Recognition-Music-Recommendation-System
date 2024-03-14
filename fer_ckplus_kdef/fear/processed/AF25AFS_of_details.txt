@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/AF25AFS.png
+Input full path:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/AF25AFS.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:AF25AFS.hog
+Output image:AF25AFS.jpg
+Output aligned directory:AF25AFS_aligned
+Output csv:AF25AFS.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

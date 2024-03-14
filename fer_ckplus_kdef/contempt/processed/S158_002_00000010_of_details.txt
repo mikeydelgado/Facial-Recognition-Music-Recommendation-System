@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/contempt/S158_002_00000010.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/contempt/S158_002_00000010.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:S158_002_00000010.hog
+Output image:S158_002_00000010.jpg
+Output aligned directory:S158_002_00000010_aligned
+Output csv:S158_002_00000010.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

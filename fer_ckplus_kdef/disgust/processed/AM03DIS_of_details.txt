@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/disgust/AM03DIS.png
+Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/disgust/AM03DIS.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:AM03DIS.hog
+Output image:AM03DIS.jpg
+Output aligned directory:AM03DIS_aligned
+Output csv:AM03DIS.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

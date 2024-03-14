@@ -1,0 +1,13 @@
+Input:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/img_455.png
+Input full path:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/img_455.png
+Camera parameters:204.167,204.167,112,112
+Output HOG:img_455.hog
+Output image:img_455.jpg
+Output aligned directory:img_455_aligned
+Output csv:img_455.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
