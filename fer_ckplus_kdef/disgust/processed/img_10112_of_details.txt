@@ -1,6 +1,0 @@
-Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/disgust/img_10112.png
-Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/disgust/img_10112.png
-Camera parameters:204.167,204.167,112,112
-Output HOG:img_10112.hog
-Output image:img_10112.jpg
-Output aligned directory:img_10112_aligned

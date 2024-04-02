@@ -1,6 +1,0 @@
-Input:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/img_28356.png
-Input full path:/Users/sanzi/Desktop/Facial-Recognition-Music-Recommendation-System/fer_ckplus_kdef/fear/img_28356.png
-Camera parameters:204.167,204.167,112,112
-Output HOG:img_28356.hog
-Output image:img_28356.jpg
-Output aligned directory:img_28356_aligned

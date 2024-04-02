@@ -1,6 +1,0 @@
-Input:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/contempt/img_9916.png
-Input full path:/Users/sanzi/Desktop/Master_Project/fer_ckplus_kdef/contempt/img_9916.png
-Camera parameters:204.167,204.167,112,112
-Output HOG:img_9916.hog
-Output image:img_9916.jpg
-Output aligned directory:img_9916_aligned
