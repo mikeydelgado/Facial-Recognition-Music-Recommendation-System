@@ -9,6 +9,7 @@ Facial Recognition Music Recommendation System is an application that captures a
 
 # Datasets
 Music Recommendation:
+https://www.kaggle.com/datasets/cnic92/spotify-past-decades-songs-50s10s
 
 Emotion Detect:
 Fer 2013: https://www.kaggle.com/datasets/msambare/fer2013
